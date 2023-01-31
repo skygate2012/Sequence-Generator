@@ -13,4 +13,4 @@ Features:
 
 Forum post: https://www.autohotkey.com/boards/viewtopic.php?f=83&t=110941
 
-Download: [Releases](./releases)
+Download: [Releases](https://github.com/skygate2012/SequenceGenerator/releases)
